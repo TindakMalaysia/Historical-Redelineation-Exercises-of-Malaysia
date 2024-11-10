@@ -8,9 +8,9 @@ Attribute,
 Field Name,Field Description
 State,State Name
 Parliamentary Constituency Code,Proposed Parliamentary Constituency Code (for the Redelineation Exercise)
-Parliamentary Seat Name,Proposed Parliamentary Constituency Name (for the Redelineation Exercise)
-DUN Constituency Code,Proposed DUN Constituency Code (for the Redelineation Exercise)
-DUN Name,Proposed DUN Constituency Name (for the Redelineation Exercise)
+Parliamentary Constituency Name,Proposed Parliamentary Constituency Name (for the Redelineation Exercise)
+State Constituency Code,Proposed State (DUN) Constituency Code (for the Redelineation Exercise)
+State Constituency Name,Proposed State (DUN) Constituency Name (for the Redelineation Exercise)
 Total Number of Electors (March 1967),Electoral Roll used for the the Redelineation Exercise
 Boundary Alteration,As per the information of Government Gazette 7th September 1968
 Name Alteration,As per the information of Government Gazette 7th September 1968
