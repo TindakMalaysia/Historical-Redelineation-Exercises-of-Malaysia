@@ -1,0 +1,29 @@
+﻿Created on,3/8/2025
+Created by,TINDAKMALAYSIA NETWORK SERVICES PLT (TINDAK MALAYSIA)
+Sources,"LAPORAN KAJIAN SEMULA PERSEMPADANAN MENGENAI SYOR-SYOR YANG DICADANGKAN BAGI BAHAGIAN-BAHAGIAN PILIHAN RAYA PERSEKUTUAN DAN NEGERI DI DALAM NEGERI SARAWAK KALI KEENAM TAHUN 2015 (SPR), Tindak Malaysia"
+Disclaimers,"The 2013 List of Polling Districts comes from TindakMalaysia's internal datasets. EC didn't disclose the pre-redelineation figures (referring to the older set of allocation of polling districs). Information of newly created polling districts came from Tindak Malaysia's analysis on the redelineation reports and pre 2015 EC maps. While every effort has been made to ensure accuracy and completeness of the data, TindakMalaysia Network Services PLT is not responsible for errors and omissions arising from the dataset"
+,
+Attribute,
+,
+FIELD NAME,FIELD DESCRIPTION
+STATE,Name of the State
+PARLIAMENTARY CONSTITUENCY CODE (2013),Parliamentary Constituency Code prior to Redelineation
+PARLIAMENTARY CONSTITUENCY NAME (2013),Parliamentary Constituency Name prior to Redelineation
+STATE CONSTITUENCY CODE (2013),State (DUN) Constituency Code prior to Redelineation
+STATE CONSTITUENCY NAME (2013),State (DUN) Constituency Name prior to Redelineation
+POLLING DISTRICT CODE (2013),Polling District Code prior to Redelineation
+POLLING DISTRICT NAME (2013),Polling District Name prior to Redelineation
+TOTAL ELECTORS (2014),Polling District Elector Count of the Electoral Roll of 30th April 2014 prior to Redelineation (unavailable)
+TOTAL ELECTORS (2013),Polling District Elector Count of the 2013 prior to Redelineation
+NOTES,Space for Explanation
+PARLIAMENTARY CONSTITUENCY CODE (2015),Parliamentary Constituency Code after Redelineation
+PARLIAMENTARY CONSTITUENCY NAME (2015),Parliamentary Constituency Name after Redelineation
+STATE CONSTITUENCY CODE (2015),State (DUN) Constituency Code after Redelineation
+STATE CONSTITUENCY NAME (2015),State (DUN) Constituency Name after Redelineation
+POLLING DISTRICT CODE (2015),Polling District Code after Redelineation
+POLLING DISTRICT NAME (2015),Polling District Name after Redelineation
+TOTAL ELECTORS (2014),Polling District Elector Count of the Electoral Roll of 30th April 2014 after Redelineation
+DIFFERENCE OF ELECTORS (WITH 2013),Polling District Elector Count of the 2013 after Redelineation
+SHIFTED STATE CONSTITUENCY,Polling District Movement from one State Constituency to another State Constituency
+SHIFTED PARLIAMENTARY CONSTITUENCY,Polling District Movement from one Parliamentary Constituency to another Parliamentary Constituency
+NOTES,"Space for Explanation (e.g., name change, formation of new polling districts)"
