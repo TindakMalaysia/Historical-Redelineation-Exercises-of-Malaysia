@@ -1,0 +1,30 @@
+﻿FIELD NAME,FIELD DESCRIPTION
+STATE,Name of the State
+PARLIAMENTARY CONSTITUENCY CODE (2025),"Parliamentary Constituency Code (current, unchanged boundary)"
+PARLIAMENTARY CONSTITUENCY NAME (2025),"Parliamentary Constituency Name (current, unchanged boundary)"
+STATE CONSTITUENCY CODE (2025),"State (DUN) Constituency Code (current, unchanged boundary)"
+STATE CONSTITUENCY NAME (2025),"State (DUN) Constituency Name (current, unchanged boundary)"
+POLLING DISTRICT CODE (2025),Polling District Code of the original 887 polling districts
+POLLING DISTRICT NAME (2025),Polling District Name of the original 887 polling districts
+TOTAL ELECTORS (2025),"Polling District Elector Count of the 2025 Principal Electoral Roll (current polling district, pre-subdivision)"
+PARLIAMENTARY CONSTITUENCY CODE (ORIGINAL MAP 2026),"Parliamentary Constituency Code under the Original Map (Peta Asal) — same as current, boundary unchanged"
+PARLIAMENTARY CONSTITUENCY NAME (ORIGINAL MAP 2026),"Parliamentary Constituency Name under the Original Map (Peta Asal) — same as current, boundary unchanged"
+STATE CONSTITUENCY CODE (ORIGINAL MAP 2026),"State (DUN) Constituency Code under the Original Map (Peta Asal) — same as current, boundary unchanged"
+STATE CONSTITUENCY NAME (ORIGINAL MAP 2026),"State (DUN) Constituency Name under the Original Map (Peta Asal) — same as current, boundary unchanged"
+POLLING DISTRICT CODE (ORIGINAL MAP 2026),Polling District Code after subdivision of 887 polling districts to 1139 (Original Map / Peta Asal)
+POLLING DISTRICT NAME (ORIGINAL MAP 2026),Polling District Name after subdivision of 887 polling districts to 1139 (Original Map / Peta Asal)
+TOTAL ELECTORS (ORIGINAL MAP 2025),"Polling District Elector Count of the 2025 Principal Electoral Roll (Original Map, after subdivision)"
+DIFFERENCE IN ELECTORS,Difference in elector count between the current (pre-subdivision) polling district and the Original Map polling district (post-subdivision)
+NOTES,"Space for Explanation (e.g., subdivision or renaming between Original Map and current polling district)"
+PROPOSED POLLING DISTRICT CODE (DRAFT GAZETTE PLAN) (2026),Proposed Polling District Code as per the Draft Gazette Plan (Rang Pelan Warta) (1st Proposal)
+PROPOSED POLLING DISTRICT CODE (1ST PROPOSAL MAP) (2026),Proposed Polling District Code as per the 1st Proposal Map (Peta Syor) (1st Proposal)
+PROPOSED POLLING DISTRICT NAME (2026),Proposed Polling District Name under the redelineation exercise (1st Proposal)
+PROPOSED STATE CONSTITUENCY CODE (2026),Proposed State (DUN) Constituency Code the polling district is allocated to under the redelineation exercise (1st Proposal)
+PROPOSED STATE CONSTITUENCY NAME (2026),Proposed State (DUN) Constituency Name the polling district is allocated to under the redelineation exercise (1st Proposal)
+PROPOSED PARLIAMENTARY CONSTITUENCY CODE (2026),Proposed Parliamentary Constituency Code the polling district is allocated to under the redelineation exercise (1st Proposal)
+PROPOSED PARLIAMENTARY CONSTITUENCY NAME (2026),Proposed Parliamentary Constituency Name the polling district is allocated to under the redelineation exercise (1st Proposal)
+TOTAL ELECTORS (2025),Polling District Elector Count of the 2025 Principal Electoral Roll (as carried into the proposed map)
+SHIFTED STATE CONSTITUENCY,Indicates whether the Polling District moved from one State (DUN) Constituency to another DUN under the proposed map (comparison between Original Map and 1st Proposal Map)
+SHIFTED PARLIAMENTARY CONSTITUENCY,Indicates whether the Polling District moved from one Parliamentary Constituency to another under the proposed map (comparison between Original Map and 1st Proposal Map)
+DIFFERENCE IN ELECTORS,Difference in elector count between the Original Map polling district and the proposed polling district allocation (comparison between Original Map and 1st Proposal Map)
+NOTES,"Space for Explanation (e.g., DUN renamed, new DUN formed, boundary shift)"
